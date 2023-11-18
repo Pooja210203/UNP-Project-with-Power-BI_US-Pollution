@@ -7,6 +7,7 @@ Key Highlights:
 2.Collaborated with Stakeholders to understand their requirements and translated them into effective Power BI Solutions.
 3.Ardently involved in Creating Data Model, Implemented Data Transformations and Calculations using DAX for accurate analysis and Reporting.
   
-   
-                    PDF link : https://drive.google.com/file/d/1UasG6YfB4lhdtLo__pyO3xMXw81cMmk0/view?usp=sharing
-                    PBIX link: https://drive.google.com/file/d/17sMrhRMKLmbIV1BP6uEsFZtf0722jjrq/view?usp=drive_link
+PBIX LINK: https://drive.google.com/file/d/17sMrhRMKLmbIV1BP6uEsFZtf0722jjrq/view?usp=sharing
+PDF LINK:  https://drive.google.com/file/d/1UasG6YfB4lhdtLo__pyO3xMXw81cMmk0/view?usp=sharing
+    
+                   
